@@ -1,4 +1,4 @@
-# Bower (`bower`)
+# Gulp (`gulp`)
 
 **Part of the BAS Ansible Role Collection (BARC)**
 
@@ -31,7 +31,11 @@ This role is designed for internal use but if useful can be shared publicly.
 ## Changelog
 
 ### 0.1.2 - October 2014
+
 * Updating dependencies
+* Correcting changelog
+* Correcting README
+
 ### 0.1.1 - October 2014
 
 * Updating dependencies
