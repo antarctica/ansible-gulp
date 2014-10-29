@@ -30,9 +30,9 @@ This role is designed for internal use but if useful can be shared publicly.
 
 ## Changelog
 
-### 0.1.0 - October 2014
 ### 0.1.2 - October 2014
 * Updating dependencies
+### 0.1.1 - October 2014
 
 * Updating dependencies
 
